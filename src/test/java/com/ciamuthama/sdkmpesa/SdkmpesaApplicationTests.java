@@ -1,4 +1,4 @@
-package com.sdkmpesa.sdkmpesa;
+package com.ciamuthama.sdkmpesa;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
